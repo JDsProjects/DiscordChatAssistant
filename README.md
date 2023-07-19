@@ -1,2 +1,2 @@
-# DiscordChatAssitant
-Testing the ability to use google assitant to discord
+# Discord Chat Assistant
+Testing the ability to use google assistant to discord
