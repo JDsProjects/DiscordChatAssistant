@@ -9,7 +9,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 
-"discord.py" = {extras = ["voice", "speed"], version = "^2.3.1"}
+"discord.py" = {extras = ["voice", "speed"], version = ">=2.3.1"}
 discord-ext-voice-recv = {git = "https://github.com/imayhaveborkedit/discord-ext-voice-recv.git", branch="main"}
 jishaku = {git = "https://github.com/Gorialis/jishaku.git"}
 asqlite = {git = "https://github.com/Rapptz/asqlite/"}
